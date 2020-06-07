@@ -1,5 +1,7 @@
 {
   "name": "arquivo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
